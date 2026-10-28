@@ -1,0 +1,11 @@
+{
+  "name": "ol-trueloyal-templates",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build/build.mjs",
+    "preview": "node build/preview.mjs",
+    "colors": "node colors/make-bookmark.mjs"
+  }
+}
